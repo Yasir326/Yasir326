@@ -10,7 +10,9 @@
  <img src="https://badges.pufler.dev/years/Yasir326" />
   
   <p align="center">
- Hello 🌍! I am Yasir 👋. I am Software Engineer based in London, UK 💂‍♂️. I love learning about new technologies and thinking about different propblems I can solve with coding 🤔. I also love finding the best places to eat 🍽 and have a real passion for all things fried chicken 🍗. I throughly enjoy working with and learning about cloud technologies in particular AWS and have a growing passion for DevOps. Feel free to reach out to colloborate on any projects or ideas 💻
+ Hey Everyone👋, I am Yasir (aka Yas) a Software Engineer based in London, UK 💂‍♂️ I love learning about new technologies and thinking about different propblems I can solve with coding 🤔 I also love finding the best places to eat 🍽 and have a real passion for all things fried chicken 🍗 I throughly enjoy working with and learning about cloud technologies in particular AWS and have a growing passion for DevOps. Feel free to reach out to share knowledge about the places to eat fried chicken as well as to colloborate on any projects or ideas 💻 
+ <br>Peace ☮️ Love ❤️ and Happiness 😄<br>
+
 </p>
   
   <h2 align="center">Tech Stack 📚</h2>
