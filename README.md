@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Yasir326/background/blob/main/banner.png" />
+<img src="https://github.com/Yasir326/Yasir326/blob/main/banner.png" />
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/Yasir326/Yasir326"/> 
