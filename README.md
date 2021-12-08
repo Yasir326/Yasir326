@@ -50,7 +50,7 @@
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="" height="40" width="40">
   </a> 
   <a href="https://www.linkedin.com/in/yasir-khan-6454746" target="blank">
-    <img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1636988101~hmac=2b075fee2447a419bbc19b187c03204f" alt="" height="40" width="40" /></a>
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" width="40" /></a>
 </p>  
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
